@@ -1,10 +1,10 @@
-# 🐦 Flappy Bird — Python Remake
+# Flappy Bird — Python Remake
 
 A faithful recreation of the classic **Flappy Bird** game built with Python and Pygame. Features smooth gravity physics, randomized pipe obstacles, collision detection, and score tracking.
 
 ---
 
-## 🎮 Demo
+##  Demo
 
 ```
 Press SPACE or click to flap → survive as long as possible → beat your best score!
@@ -12,7 +12,7 @@ Press SPACE or click to flap → survive as long as possible → beat your best 
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Gravity physics** — smooth per-frame acceleration with velocity-based bird tilt
 - **Obstacle generation** — randomized pipe gaps spawned on a timer, auto-cleaned when off-screen
@@ -23,7 +23,7 @@ Press SPACE or click to flap → survive as long as possible → beat your best 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -46,7 +46,7 @@ python flappy_bird.py
 
 ---
 
-## 🕹️ Controls
+##  Controls
 
 | Action | Input |
 |--------|-------|
@@ -55,14 +55,14 @@ python flappy_bird.py
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3
 - **Library:** [Pygame](https://www.pygame.org/)
 
 ---
 
-## ⚙️ Physics & Game Config
+##  Physics & Game Config
 
 | Parameter | Value | Description |
 |-----------|-------|-------------|
@@ -75,24 +75,7 @@ python flappy_bird.py
 
 ---
 
-## 📁 Project Structure
 
-```
-flappy-bird/
-├── flappy_bird.py   # Main game — all logic, physics, rendering
-├── README.md        # This file
-├── .gitignore       # Python gitignore
-└── requirements.txt # Dependency list
-```
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! Feel free to open an issue for bugs or feature suggestions.
-
----
-
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
